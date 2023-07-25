@@ -1,0 +1,22 @@
+name: Update readme
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Python script
+      run: |
+        python3 update_days.py
+    - name: Commit and push if changed
+      run: |
+        git diff
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git commit -am "Update days left" || exit 0
+        git push
