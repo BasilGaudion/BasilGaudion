@@ -15,8 +15,11 @@ jobs:
         python3 update_days.py
     - name: Commit and push if changed
       run: |
+        python3 days_left.py
         git diff
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git commit -am "Update days left" || exit 0
+        git add .
+        git commit -m "Update days left" || exit 0
         git push
+
