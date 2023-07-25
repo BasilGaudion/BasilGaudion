@@ -20,7 +20,8 @@ My technical skills include:
 [![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasilGaudion)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
-- LinkedIn - [Basil]([https://linkedin.com/in/johnsmith](https://www.linkedin.com/in/basil-gaudion/))
+
+- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - [Basil](https://www.linkedin.com/in/basil-gaudion/)
 
 - ## Countdown to the end of the year ⏳
 
