@@ -21,9 +21,10 @@ My technical skills include:
 
 ## 📫 Contact Me
 
-- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - [Basil](https://www.linkedin.com/in/basil-gaudion/)
+[![Badge LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basil-gaudion/)
 
-- ## Countdown to the end of the year ⏳
+
+## Countdown to the end of the year ⏳
 
 Days left until the end of the year: 365
 
