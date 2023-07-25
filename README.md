@@ -22,6 +22,10 @@ My technical skills include:
 ## 📫 Contact Me
 - LinkedIn - [Basil]([https://linkedin.com/in/johnsmith](https://www.linkedin.com/in/basil-gaudion/))
 
+- ## Countdown to the end of the year ⏳
+
+Days left until the end of the year: 365
+
 
 
 <!--
